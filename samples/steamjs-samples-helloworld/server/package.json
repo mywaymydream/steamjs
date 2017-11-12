@@ -1,0 +1,10 @@
+{
+	"name": "steamjs-samples-helloworld",
+	"version": "0.0.1",
+	"description": "Sample project for SteamJS project",
+	"main": "main.js",
+	"dependencies": {
+		"steamjs": "file:../../../steamjs",
+		"express": "~4.16.2"
+	}
+}

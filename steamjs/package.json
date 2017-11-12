@@ -1,0 +1,10 @@
+{
+	"name": "steamjs",
+	"version": "0.0.1",
+	"description": "SteamJS platform",
+	"license" : "GPLv3",
+	"main" : "js/steam.js",
+	"dependencies": {
+
+	}
+}
