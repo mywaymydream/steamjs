@@ -6,5 +6,8 @@
 	"dependencies": {
 		"steamjs": "file:../../../steamjs",
 		"express": "~4.16.2"
+	},
+	"devDependencies": {
+		"gulp": "^3.9.1"
 	}
 }

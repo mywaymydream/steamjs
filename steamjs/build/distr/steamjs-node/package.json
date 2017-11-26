@@ -4,10 +4,5 @@
 	"description": "SteamJS platform",
 	"license": "GPLv3",
 	"main": "js/steam.js",
-	"dependencies": {},
-	"devDependencies": {
-		"gulp": "^3.9.1",
-		"gulp-concat": "^2.6.1",
-		"gulp-file-insert": "^1.0.3"
-	}
+	"dependencies": {}
 }

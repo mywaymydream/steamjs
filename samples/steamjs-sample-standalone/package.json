@@ -1,0 +1,9 @@
+{
+	"name": "steamjs-sample-standalone",
+	"version": "0.0.1",
+	"description": "Sample of SteamJS project",
+	"main": "main.js",
+	"dependencies": {
+		"steamjs": "file:../../steamjs/build/distr/steamjs-node"
+	}
+}
